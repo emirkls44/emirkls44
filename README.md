@@ -1,48 +1,48 @@
-<h1 align="center">👋 Hey, I'm Emir Keleş</h1>
-<h3 align="center">🌍 Flutter Developer & Video Creator</h3>
+<h1 align="center">Hi 👋, I'm Emir Keleş</h1>
+<h3 align="center">Flutter & Mobile Developer | Video Creator</h3>
 
 ---
 
-## 🙋‍♂️ Hakkımda
-- 🎓 Makine Mühendisliği mezunuyum (Yalova Üniversitesi)  
-- 📱 **Flutter** ile mobil uygulamalar geliştiriyorum  
-- 🎬 Video prodüksiyon (Premiere Pro & After Effects) ile içerikler üretiyorum  
-- 🚀 Kariyerime **Mobile Developer** olarak devam etmek istiyorum  
+## 👨‍💻 About Me
+- 🎓 Mechanical Engineering graduate (Yalova University in TÜRKİYE)  
+- 📱 Learning and building mobile apps with **Flutter**  
+- 🎬 Creating content with **Premiere Pro & After Effects**  
+- 🚀 Looking for opportunities as a **Mobile Developer**  
 
 ---
 
-## 📫 Bana Ulaş
-- 📧 **emirkls44@gmail.com**  
-- 🔗 [LinkedIn](https://linkedin.com/in/emirkeles)  
-- 📂 [GitHub](https://github.com/emirkeles)  
+## 📫 Contact
+- 📧 Email: **emirkls44@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/emirkeles](https://linkedin.com/in/emirkeles)  
+- 📂 GitHub: [github.com/emirkeles](https://github.com/emirkeles)  
 
 ---
 
-## 🛠️ Teknolojiler
+## 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,github,git,firebase,c,linux" />
-  <img src="https://skillicons.dev/icons?i=ae,pr" />
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-premiere-pro-cc-icon.svg" alt="premiere" width="40" height="40"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-after-effects-1.svg" alt="after effects" width="40" height="40"/> 
 </p>
 
 ---
 
-## 📊 GitHub İstatistiklerim
-<div align="center">
+## 📊 GitHub Stats
+![Emir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emirkeles&show_icons=true&theme=radical)
 
-![Emir's GitHub stats (dark)](https://github-readme-stats.vercel.app/api?username=emirkeles&show_icons=true&theme=radical#gh-dark-mode-only)  
-![Emir's GitHub stats (light)](https://github-readme-stats.vercel.app/api?username=emirkeles&show_icons=true&theme=default#gh-light-mode-only)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=emirkeles&theme=radical)
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emirkeles&layout=compact&theme=radical)
 
 ---
 
-## 🚀 Öne Çıkan Projeler
-- 📱 **Dijital Albüm Uygulaması** – Flutter ile fotoğraf + PDF export  
-- 📱 **Not Ortalaması Hesaplayıcı** – Flutter uygulaması  
-- 🔧 **Sensörlü Sistem (Arduino)** – C ile geliştirme  
+## 🚀 Highlighted Projects
+- 📱 **Digital Album App** – Flutter app for creating photo albums with PDF export  
+- 📱 **GPA Calculator** – Flutter app  
+- 🔧 **Sensor System (Arduino)** – Embedded project with C  
 
 ---
 
-✨ *“Kod satırlarıyla ürün geliştiriyor, videolarla hikâye anlatıyorum. İkisini birleştirmek benim süper gücüm.”*  
+✨ *“Writing code and creating videos, I aim to deliver the best user experience.”*  
