@@ -1,10 +1,11 @@
 # Emir Ebubekir Keleş
 
-I write firmware for STM32 and ESP32 at GESK Technologies, mostly bare-metal C.
+I write firmware for STM32 and ESP32, mostly bare-metal C.
 
-At work I've built packet radio links between STM32 boards with the S2-LP transceiver,
-brought up an MFRC522 RFID reader over SPI, and written the gateway that moves our
-sensor data over RF and MQTT. That code stays with the company.
+At GESK Technologies I built packet radio links between STM32 boards with the S2-LP
+transceiver, integrated an MFRC522 RFID reader over SPI, wrote UART, SPI and I2C drivers
+for Cortex-M parts, and worked on a gateway that moved sensor data over RF and MQTT.
+That code stayed with the company.
 
 Things I can share:
 
